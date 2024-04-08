@@ -11,4 +11,12 @@ O GitHub também funciona como uma rede social, que ajuda na conexão de desenvo
 <img src="https://www.webfx.com/wp-content/uploads/2022/08/github-logo.png">
 
 # O que é VSCODE
-É um editor de codigo aberto feito pela microsoft, ele tem muitas funções, como terminal de commandos integrado
+É um editor de código aberto feito pela Microsoft, ele tem muitas funções, como terminal de comandos integrado, controle de versão e edição de comandos com várias linguagens da programação.
+Ele é uma ferramenta bem simples, porem com uma grande quantidade de extensão, que continua aumentando, graças a isso, ele pode ser comparado com grandes IDEs (Ambiente de desenvolvimento integrado) pagas.
+
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPhJ97OfUjh4WXsYkvM1MbolCripsaui_taiHDwQzlcQ&s">
+
+# Fontes
+Fonte 1 - https://www.treinaweb.com.br/blog/vs-code-o-que-e-e-por-que-voce-deve-usar
+
+Fonte 2 - https://ebaconline.com.br/blog/o-que-e-github#:~:text=O%20que%20%C3%A9%20GitHub%20e,faz%20o%20registro%20de%20mudan%C3%A7as.
